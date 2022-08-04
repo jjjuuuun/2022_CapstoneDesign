@@ -1,0 +1,48 @@
+YOLO_V3
+https://github.com/sthanhng/yoloface
+	Folder
+		yolo_weight
+	File
+		face_detection.py
+
+CycleGAN
+https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix
+	Folder
+		data
+		datasets
+		docs
+		imgs
+		models
+		options
+		scripts
+		util
+		checkpoints
+		Face_Image		얼굴만 있는 이미지 폴더(CycleGAN 학습시킬 때 사용)
+	File
+		.gitignore
+		.replit
+		CycleGAN.ipynb
+		LICENSE
+		README.md
+		envirionment.yml
+		pix2pix.ipynb
+		requirements.txt
+		train.py
+
+Poisson_Image_Editing
+https://github.com/bchao1/poisson-image-editing
+	File
+		utils.py
+		texture_flattening.py
+		test_sample.ipynb
+		seamless_tiling.py
+		seamless_cloning.py
+		local_illumination_change.py
+		local_color_change.py
+		create_mask.py
+
+result_img		최종 이미지 저장된 폴더
+CycleGAN_Train	CycleGAN 학습 시킬 때 사용할 python 파일이 저장된 폴더
+test.py		최종 이미지를 얻을 때 사용할 python 파일
+test.ipynb		test.py를 돌리기 위한 python 파일
+

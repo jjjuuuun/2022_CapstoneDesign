@@ -1,0 +1,9 @@
+.git/
+Model/CycleGAN/Face_Image/
+Model/CycleGAN/checkpoints/
+Model/result_img/
+Model/__pycache__/
+Model/YOLO_V3/yolo_weight/
+Image/
+ImageFolder_Descript.txt
+
